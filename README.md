@@ -3,7 +3,8 @@
 ## 概要
 
 以下に参加し、inverter回路を作りました。
-https://ishikai.connpass.com/event/363093
+
+[2025年09月イベント：初めての半導体設計・製造体験！一日で作るインバータ回路ハンズオン](https://ishikai.connpass.com/event/363093)
 
 その成果です。
 
